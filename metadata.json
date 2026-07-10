@@ -1,0 +1,6 @@
+{
+  "name": "Windows 8.1",
+  "description": "An immersive, fully-functional Windows 8.1 desktop and start screen simulator inside Android with a functioning Metro Start Screen, classic desktop icons, window snapping, taskbar previews, responsive File Explorer, and built-in apps like Notepad, Paint, Minesweeper, and Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
